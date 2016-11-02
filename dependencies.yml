@@ -1,0 +1,4 @@
+name: authentication-service
+dependencies:
+  - linkedin-oauth-2
+  - active-directory
